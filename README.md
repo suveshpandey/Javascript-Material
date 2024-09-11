@@ -15,7 +15,10 @@ Make sure you have Node.js installed if you're running any of the scripts on you
 Usage:-
 Navigate to the project directory:
     bash
+
         cd <repo-name>
-        Run individual JavaScript files:
+
+Run individual JavaScript files:
     bash:
+        
         node <filename>.js
